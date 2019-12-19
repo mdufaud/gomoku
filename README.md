@@ -12,7 +12,7 @@ You can capture 2 pawns like that OXXO <--- last played O by you resulting in: 0
 
 ### To start
 ```
-make && ./Gomoku
+make && ./gomoku
 
 Packets to install: libsdl2-dev libsdl2-ttf-dev
 ```
